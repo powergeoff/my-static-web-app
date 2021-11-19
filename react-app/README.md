@@ -1,5 +1,7 @@
 # Static Web App
 
+https://nice-grass-03df1670f.azurestaticapps.net/products
+
 This project was created to help represent a fundamental app written with React. The shopping theme is used throughout the app.
 
 ## Getting Started
